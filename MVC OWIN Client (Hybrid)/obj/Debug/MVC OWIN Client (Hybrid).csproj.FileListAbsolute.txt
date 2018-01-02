@@ -1,0 +1,73 @@
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\MVC OWIN Client.dll.config
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\MVC OWIN Client.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\MVC OWIN Client.pdb
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Antlr3.Runtime.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Constants.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\IdentityModel.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Security.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Newtonsoft.Json.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Owin.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.Helpers.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.Mvc.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.Optimization.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.Razor.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.WebPages.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\WebGrease.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Constants.pdb
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Antlr3.Runtime.pdb
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\IdentityModel.pdb
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Security.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\Newtonsoft.Json.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.Helpers.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.Mvc.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.Optimization.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.Razor.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.WebPages.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\obj\Debug\MVC OWIN Client (Hybrid).csproj.CoreCompileInputs.cache
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\obj\Debug\MVC OWIN Client.dll
+C:\Users\ahmedoumezzinePC\Desktop\IdentityServer3.Samples-master\source\Clients\MVC OWIN Client (Hybrid)\obj\Debug\MVC OWIN Client.pdb
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\MVC OWIN Client.dll.config
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\MVC OWIN Client.dll
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\MVC OWIN Client.pdb
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\Antlr3.Runtime.pdb
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\IdentityModel.pdb
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Security.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\Newtonsoft.Json.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\System.Web.Helpers.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\System.Web.Mvc.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\System.Web.Optimization.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\System.Web.Razor.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\System.Web.WebPages.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\obj\Debug\MVC OWIN Client (Hybrid).csproj.CoreCompileInputs.cache
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\obj\Debug\MVC OWIN Client.dll
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\obj\Debug\MVC OWIN Client.pdb
+C:\Users\ahmedoumezzinePC\Documents\GitHub\identityserver3\MVC OWIN Client (Hybrid)\obj\Debug\MVC OWIN Client (Hybrid).csprojResolveAssemblyReference.cache
