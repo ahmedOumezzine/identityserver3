@@ -1,0 +1,13 @@
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\Clients\JavaScriptImplicitClient Manual\bin\JavaScriptImplicitClient-Simple.dll.config
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\Clients\JavaScriptImplicitClient Manual\bin\JavaScriptImplicitClient-Simple.dll
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\Clients\JavaScriptImplicitClient Manual\bin\JavaScriptImplicitClient-Simple.pdb
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\Clients\JavaScriptImplicitClient Manual\obj\Debug\JavaScriptImplicitClient-Simple.dll
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\Clients\JavaScriptImplicitClient Manual\obj\Debug\JavaScriptImplicitClient-Simple.pdb
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\Clients\JavaScriptImplicitClient Manual\obj\Debug\JavaScript Client Manual.csprojResolveAssemblyReference.cache
+C:\Users\ahmedoumezzinePC\Desktop\ID3WINDOWSAUTH-master\Clients\JavaScriptImplicitClient Manual\bin\JavaScriptImplicitClient-Simple.dll.config
+C:\Users\ahmedoumezzinePC\Desktop\ID3WINDOWSAUTH-master\Clients\JavaScriptImplicitClient Manual\bin\JavaScriptImplicitClient-Simple.dll
+C:\Users\ahmedoumezzinePC\Desktop\ID3WINDOWSAUTH-master\Clients\JavaScriptImplicitClient Manual\bin\JavaScriptImplicitClient-Simple.pdb
+C:\Users\ahmedoumezzinePC\Desktop\ID3WINDOWSAUTH-master\Clients\JavaScriptImplicitClient Manual\obj\Debug\JavaScript Client Manual.csprojResolveAssemblyReference.cache
+C:\Users\ahmedoumezzinePC\Desktop\ID3WINDOWSAUTH-master\Clients\JavaScriptImplicitClient Manual\obj\Debug\JavaScript Client Manual.csproj.CoreCompileInputs.cache
+C:\Users\ahmedoumezzinePC\Desktop\ID3WINDOWSAUTH-master\Clients\JavaScriptImplicitClient Manual\obj\Debug\JavaScriptImplicitClient-Simple.dll
+C:\Users\ahmedoumezzinePC\Desktop\ID3WINDOWSAUTH-master\Clients\JavaScriptImplicitClient Manual\obj\Debug\JavaScriptImplicitClient-Simple.pdb
